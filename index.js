@@ -34,6 +34,7 @@ module.exports = {
     'operator-linebreak': ['error', 'after'],
     'no-empty': ['error', { allowEmptyCatch: true }],
     'prefer-const': ['error', { destructuring: 'all' }],
+    'react/destructuring-assignment': ['error', 'always'],
     'arrow-spacing': ['error', { before: false, after: true }],
     'array-bracket-spacing': ['error', 'never', { singleValue: true }],
     'no-use-before-define': ['error', { functions: false, classes: false }],
