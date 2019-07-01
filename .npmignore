@@ -1,0 +1,6 @@
+.DS_Store
+.editorconfig
+.gitignore
+.gitattributes
+package-lock.json
+/node_modules

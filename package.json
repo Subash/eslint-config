@@ -1,0 +1,21 @@
+{
+  "name": "@sbspk/eslint-config",
+  "version": "1.0.0",
+  "description": "Personal eslint config",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/subash/eslint-config.git"
+  },
+  "author": "Subash Pathak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subash/eslint-config/issues"
+  },
+  "homepage": "https://github.com/subash/eslint-config#readme",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-react": "^7.14.2"
+  }
+}
