@@ -3,6 +3,7 @@ module.exports = {
     'airbnb-base',
     'plugin:react/recommended'
   ],
+  plugins: ['react-hooks'],
   rules: {
     'no-new': 'off',
     'max-len': 'off',
@@ -31,6 +32,8 @@ module.exports = {
     'one-var-declaration-per-line': 'off',
     'import/no-extraneous-dependencies': 'off',
     'comma-dangle': ['error', 'never'],
+    'react-hooks/rules-of-hooks': 'error',
+    'react-hooks/exhaustive-deps': 'error',
     'jsx-quotes': ['error', 'prefer-single'],
     'operator-linebreak': ['error', 'after'],
     'no-empty': ['error', { allowEmptyCatch: true }],
