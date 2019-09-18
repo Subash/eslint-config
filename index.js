@@ -34,6 +34,7 @@ module.exports = {
     'one-var-declaration-per-line': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'error',
+    'arrow-parens': ['error', 'as-needed'],
     'jsx-quotes': ['error', 'prefer-single'],
     'operator-linebreak': ['error', 'after'],
     'import/no-extraneous-dependencies': 'off',
