@@ -16,6 +16,7 @@ module.exports = {
     'global-require': 'off',
     'no-multi-assign': 'off',
     'no-return-await': 'off',
+    'arrow-body-style': 'off',
     'no-return-assign': 'off',
     'object-shorthand': 'off',
     'no-await-in-loop': 'off',
