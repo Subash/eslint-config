@@ -31,5 +31,6 @@ module.exports = {
     'react-hooks/rules-of-hooks': 'error',
     'react/destructuring-assignment': ['error', 'always'],
     'react/no-children-prop': 'off',
+    'semi': ['error', 'always']
   }
 }
